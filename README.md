@@ -2,7 +2,7 @@
 Free resources, guides, and templates to master Microsoft Excel – Practical and Job-Oriented
 Learn Microsoft Excel from scratch — formulas, charts, dashboards, and data analysis. Perfect for students, professionals, and entrepreneurs.
 
-# Enroll Now:
+## Enroll Now:
 
 ## What's Included
 - Beginner to Advanced Lessons
